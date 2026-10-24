@@ -137,8 +137,6 @@
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                          &trans
             >;
-
-            sensor-bindings = <&msc SCRL_DOWN &msc SCRL_UP>;
         };
 
         layer_6 {
